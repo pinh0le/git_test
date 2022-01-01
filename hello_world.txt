@@ -1,1 +1,3 @@
-Bravo for learning this stuff
+git commit m-"This is a funny commit"
+
+This is a description of the git commit. It says: Bravo for learning this stuff
